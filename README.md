@@ -1,4 +1,4 @@
-# Project_1
+# Airbnb Project Testing
 
 Project data : https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
 1st step is loading the data into a python editor (PyCharm) and transforming the columns that have reduntant information.
